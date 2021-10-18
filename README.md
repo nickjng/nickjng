@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Nickolas, Bem vindo ao meu Perfil
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickjng&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickjng&show_icons=true&theme=highcontrast)
 
 
 <div style="display: inline_block"><br>
