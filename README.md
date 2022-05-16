@@ -22,10 +22,10 @@
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a> -->
 
-  <a href="https://www.linkedin.com/in/nickolas-gon%C3%A7alves-7743b2196" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/nickolas-gon%C3%A7alves-7743b2196" target="_blank" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nickolas-gon%C3%A7alves-7743b2196/" /></a>
 
-  <a href="https://www.instagram.com/nickjunior_ng/" alt="Instagram">
+  <a href="https://www.instagram.com/nickjunior_ng/" target="_blank" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/nickjunior_ng/"/></a>
 </p>  
 
