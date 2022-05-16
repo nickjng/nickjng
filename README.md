@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💌 Mais informações, entre em contato: ⤵️
+  💌 Opa! deseja entrar em contato?! me manda um direct: ⤵️
 </p>
 
 <!-- <p align="left">
