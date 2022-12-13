@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  :coffee: Linguagens: <strong>Java, JavaScript, Node.js</strong>
+  :coffee: Linguagens: <strong>Java, Spring Boot, JavaScript, Node.js</strong>
 </p>
 
 <p align="left">
