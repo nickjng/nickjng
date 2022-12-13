@@ -3,7 +3,6 @@
 <p align="left"> 
   Nickolas Junior Nascimento Gonçalves <br>
   <strong>Desenvolvedor BackEnd</strong>.<br>
-  Trabalhando na empresa <strong>ProIoT</strong>.
 </p>
 
 <p align="left">
