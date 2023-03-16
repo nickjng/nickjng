@@ -6,7 +6,11 @@
 </p>
 
 <p align="left">
-  :coffee: Linguagens: <strong>Java, Spring Boot, JavaScript, Node.js</strong>
+  :coffee: Linguagens: <strong>Java e JavaScript</strong>
+</p>
+
+<p align="left">
+  :gear: FrameWorks: <strong>Spring Boot e Node.js</strong>
 </p>
 
 <p align="left">
