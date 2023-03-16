@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Nickolas Junior Nascimento Gonçalves <br>
-  <strong>Desenvolvedor BackEnd</strong>.<br>
+  <strong>Desenvolvedor BackEnd Junior</strong>.<br>
 </p>
 
 <p align="left">
