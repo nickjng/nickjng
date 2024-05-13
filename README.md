@@ -2,21 +2,22 @@
 
 <p align="left"> 
   Nickolas Junior Nascimento Gonçalves <br>
-  <strong>Desenvolvedor BackEnd Junior</strong>.<br>
+  <strong>Desenvolvedor FullStack</strong>.<br>
 </p>
 
 <p align="left">
-  :coffee: Linguagens: <strong>Java e JavaScript</strong>
+  :coffee: Linguagens: <strong>Java, JavaScript e TypeScript
+  </strong>
 </p>
 
 <p align="left">
-  :gear: FrameWorks: <strong>Spring Boot e Node.js</strong>
+  :gear: Tecnologias: <strong>Spring Boot, Node.js, React e React Native</strong>
 </p>
 
-<p align="left">
+<!-- <p align="left">
   💼 Ferramentas: <strong>VScode, Docker, Insominia, Linux</strong>
 </p>
-
+-->
 <p align="left">
   💌 Opa! deseja entrar em contato?! me manda um direct: ⤵️
 </p>
